@@ -1,0 +1,52 @@
+[
+  {
+    "title": "'OS' computer abbrevation usually means ?",
+    "options": [
+      "Order of Significance",
+      "Open Software",
+      "Operating System",
+      "None of these"
+    ],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "Most modern TV's draw power even if turned off. The circuit the power is used in does ?",
+    "options": [
+      "Sound",
+      "Remote Control",
+      "Color balance",
+      "High Voltage"
+    ],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "Which county did Ravi Shastri play for ?",
+    "options": [
+      "Glamorgan",
+      "Leicestershire",
+      "Gloucestershire",
+      "Lancashire"
+    ],
+    "correctOptionIndex": "0"
+  },
+  {
+    "title": "'Dandia' is a popular dance of ?",
+    "options": [
+      "Punjab",
+      "Gujarat",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "correctOptionIndex": "1"
+  },
+  {
+    "title": "Who was known as Iron man of India?",
+    "options": [
+      "Govind Ballabh Pant",
+      "Jawaharlal Nehru",
+      "Subhash Chandra Bose",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctOptionIndex": "3"
+  }
+]
