@@ -1,3 +1,6 @@
+![Web capture_12-10-2023_21826_localhost](https://github.com/shripad99/Quiz-app/assets/89384595/7398b81f-a2cf-4439-b5ac-f9cd367a29a4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
